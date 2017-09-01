@@ -1,0 +1,150 @@
+.topnav a {
+    
+    color: #f2f2f2;
+    text-decoration: none;
+    font-size: 24px;
+    font-family:serif;
+    
+}
+
+h1{
+    
+    font-family: 'outrun_futureregular';
+    color: rgb(88, 115, 178);
+    text-shadow: 1px 1px 1px #f2f2f2;
+    text-align: center;
+    font-size: 28pt;
+}
+
+
+h2{
+    font-family: monospace;
+    color:aliceblue;
+    text-shadow: 2px 2px 1px black;
+    text-align: center;
+    
+}
+
+.floating-box{
+    
+    background-image: url(../Images/Cog%20Cover%20!.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    
+}
+
+.floating-box2{
+   
+    background-image: url(../Images/72946420.JPEG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    
+}
+
+.floating-box3{
+ 
+    background-image: url(../Images/LOVEMarker.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    
+}
+
+h4{
+    background-color: black;
+    color: #acbe8b;
+    font-family: sans-serif;
+    font-size: 20;
+    border-radius: 20px;
+    border: 2px solid #9cd9d9;
+        
+}
+
+.footer{
+    
+    font-family: 'moondance';
+    color: #dae58b;
+    text-align: center;
+    text-shadow: 1px 1px 1px #2d451e;
+    
+}
+    
+.socialButtons{
+   
+    
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.aboutMe{
+    color: #cace9a;
+    font-size: 24pt;
+    text-shadow: 2px 2px 2px black;
+    
+}
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */  
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #e24039;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+    border-radius: 5px;
+    background-color: #c4b38d;
+    padding: 20px;
+    opacity: 0.8;
+}
+.clickMe{
+    font-size: 18pt;
+    font-family: serif;
+    color:aliceblue;
+}
+
+#demo{
+    color: aliceblue;
+    font-size: 18pt;
+    font-family: serif;
+    text-shadow: 2px 2px 2px black;
+    
+}
+button{
+   
+    color: #900;
+    font-weight: bold;
+    font-size: 150%;
+    text-transform: uppercase;
+    cursor: auto;
+    
+    
+}
+
+   
+    
+    
